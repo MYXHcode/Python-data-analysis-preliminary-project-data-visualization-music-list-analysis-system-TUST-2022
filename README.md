@@ -1,0 +1,2 @@
+# Python-data-analysis-preliminary-project-data-visualization-music-list-analysis-system-TUST-2022
+本基于 Python 数据可视化的网易云音乐歌单分析系统，我使用了 Python 丰富的第三方开源模块，如 numpy, pandas, matplotlib, time, requests, squarify, jieba, wordcloud, bs4 等来制作，实现了对网易云音乐歌单数据的获取，对歌单数据进行可视化分析，得出歌单的评论、收藏、播放、贡献、分布的数量图以及词云，并提出歌单优化的建议。  这个项目是我大三写的，现在回顾已经非常粗糙，分享出来一方面希望可以帮助初学者，另一方面希望能让同学们可以从目前大学中普遍毫无价值的形式主义作业中解脱出来，更加高效地学习优质计算机知识和主流编程技术，一起发扬开源精神，感受互联网技术的美好愿景。
